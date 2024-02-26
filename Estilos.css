@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.Acerca de mi
+.Conocimientos
+.Contacto {
+    margin: 20px;
+}
+
+.Conocimientos {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+. {
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #333;
+}
+
+h3 {
+    color: #007BFF;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
